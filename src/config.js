@@ -14,6 +14,9 @@ require.config({
         HomePage: "pages/Home.vue",
         ArticlePage: "pages/Article.vue",
 
+        //Shared pages
+        Header: "pages/shared/Header.vue",
+
         // main
         Router: "router"
     }
