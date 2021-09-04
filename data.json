@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Animals",
+            "Description": ""
+        },
+        {
+            "id": 1,
+            "name": "Crops",
+            "Description": ""
+        },
+        {
+            "id": 2,
+            "name": "Equipment",
+            "Description": ""
+        }
+    ],
+
+    "subCategories":[
+        {
+            "id":0,
+            "parentId": 1,
+            "name": "Cereal"
+        },
+        {
+            "id":1,
+            "parentId": 1,
+            "name": "Fruits"
+        },
+        {
+            "id":2,
+            "parentId": 1,
+            "name": "Vegetables"
+        },
+        {
+            "id": 4,
+            "parentId": 0,
+            "name": "Dairy"
+        },
+        {
+            "id":5,
+            "parentId": 0,
+            "name": "Fish" 
+        },
+        {
+            "id":6,
+            "parentId": 0,
+            "name":"Poultry"
+        },
+        {
+            "id":7,
+            "parentId": 0,
+            "name": "Livestock"
+        },
+        {
+            "id":8,
+            "parentId": 2,
+            "name": "Cultivators"
+        },
+        {
+            "id":9,
+            "parentId": 2,
+            "name": "Feeders"
+        },
+        {
+            "id":10,
+            "parentId": 2,
+            "name": "Ferterlizers"
+        },
+        {
+            "id":11,
+            "parentId": 2,
+            "name": "Irrigation"
+        },
+        {
+            "id":12,
+            "parentId": 2,
+            "name": "Sparyers"
+        },
+        {
+            "id":12,
+            "parentId": 2,
+            "name": "Harvesters"
+        }
+    ]
+}
